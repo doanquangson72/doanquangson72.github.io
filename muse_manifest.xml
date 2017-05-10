@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="doanquangson72.github.io" resolutions="1x" timestamp="1494386393039">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="doanquangson72.github.io" resolutions="1x" timestamp="1494388574555">
   <folder name="images">
     <file name="no_04.jpg" crc="186036519" ref="index"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="index.css" crc="4088088520" ref="index"/>
+    <file name="index.css" crc="203197073" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="484278746" ref="index"/>
@@ -13,5 +13,5 @@
     <file name="jquery.watch.js" crc="3866665977" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="index"/>
   </folder>
-  <file name="index.html" crc="69765186" seo="true" mt="1494386392773" redirect="true"/>
+  <file name="index.html" crc="330521680" seo="true" mt="1494388561438" redirect="true"/>
 </manifest>
