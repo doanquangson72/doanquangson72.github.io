@@ -1,21 +1,42 @@
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #18E260;
+	color: #0000F3;
+	background-color: #AB47C8;
 }
 
 #page
 {
 	z-index: 1;
-	width: 517px;
-	min-height: 66px;
+	width: 1170px;
+	min-height: 438px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 34px 247px 400px 406px;
+}
+
+#u97
+{
+	z-index: 6;
+	width: 240px;
+	height: 383px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 76px;
+	left: 63px;
+	background: transparent url("../images/no_04.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#pu94-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 34px;
+	margin-left: 406px;
 }
 
 #u94-4
@@ -28,6 +49,33 @@
 	color: #F15A24;
 	line-height: 36px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u116
+{
+	z-index: 7;
+	width: 240px;
+	height: 383px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 42px;
+	left: 19px;
+	background: transparent url("../images/no_04.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u119
+{
+	z-index: 8;
+	width: 240px;
+	height: 383px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 35px;
+	left: 349px;
+	background: transparent url("../images/no_04.jpg") no-repeat left top;
+	background-size: cover;
 }
 
 #muse_css_mq,.html
@@ -40,4 +88,5 @@ body
 	position: relative;
 	min-width: 1170px;
 }
+
 
